@@ -4,7 +4,7 @@ Snort es una de las herramientas de ciberseguridad más reconocidas y utilizadas
 
 
 *********** CRISTIAN CALDERON *******
-
+Es importante aprender sobre detecion de intrusos ya que nos permite asegurar la red
 
 *************************************
 
