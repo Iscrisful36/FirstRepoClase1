@@ -10,4 +10,4 @@ Es importante aprender sobre detecion de intrusos ya que nos permite asegurar la
 
 
  FERNANDO CASTRO
-
+ Yo considero que como analistas de cynerseguridad es de suma imprtancia poder tener conocimiento de como detectar vulnerabiliddes e intrusos porque nos permite analizar riesgos.
